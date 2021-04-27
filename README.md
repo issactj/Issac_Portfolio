@@ -1,5 +1,7 @@
-## PROJECT_1
-Housing Prices Prediction
+## PROJECT 1
+[Data Science NLP Poetry] (https://github.com/issactj/Projects/blob/main/NLP_Poetry.ipynb)
+
+
 
 ```markdown
 Syntax highlighted code block
