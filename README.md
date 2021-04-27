@@ -1,4 +1,4 @@
-##[PROJECT 1 NLP PoetryData Science NLP Poetry] (https://github.com/issactj/Projects/blob/main/NLP_Poetry.ipynb)
+# [PROJECT 1 NLP PoetryData Science NLP Poetry](https://github.com/issactj/Projects/blob/main/NLP_Poetry.ipynb)
 
 
 
